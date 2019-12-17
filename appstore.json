@@ -1,0 +1,22 @@
+{
+  "code": "000000",
+  "mas": "SUCCESS",
+  "data": [
+    {
+      "showName": "Demo APP",
+      "name": "dapp-sample",
+      "icon": "appstore/img/icon1.png",
+      "author": "stacs",
+      "remark": "This is a demo app",
+      "downloadUrl": "http://cloud.myphoto.top/dapp-sample-1.0.0-SNAPSHOT-dapp.jar"
+    },
+    {
+      "showName": "STACS Explorer",
+      "name": "native-explorer",
+      "icon": "appstore/img/icon2.png",
+      "author": "stacs",
+      "remark": "This is a explorer app",
+      "downloadUrl": "https://github.com/hashstacs-inc/stacs-native-dappstore/blob/dev_1.0.0/native-explorer-dapp.jar"
+    }
+  ]
+}
