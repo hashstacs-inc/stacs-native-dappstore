@@ -16,7 +16,7 @@
       "icon": "appstore/img/icon2.png",
       "author": "stacs",
       "remark": "This is a explorer app",
-      "downloadUrl": "https://static.cowtransfer.com/anonymous/bc99e31e-75a5-44bb-b404-d2fe38481fbc/native-explorer-dapp.jar?onett=8dcfd1ebe53adcbf715f2ea6bcb28aaf&attname=native-explorer-dapp.jar"
+      "downloadUrl": "https://raw.githubusercontent.com/hashstacs-inc/stacs-native-dappstore/dev_1.0.0/native-explorer-dapp.jar"
     }
   ]
 }
