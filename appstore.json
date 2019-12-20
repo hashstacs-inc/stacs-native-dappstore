@@ -23,7 +23,7 @@
       "icon": "appstore/img/icon1.png",
       "author": "stacs",
       "remark": "This is a transfer demo app",
-      "downloadUrl": "https://raw.githubusercontent.com/hashstacs-inc/stacs-native-dappstore/dev_1.0.0/dapp-transfer-dapp.jar"
+      "downloadUrl": "https://stacs-dappstore.oss-cn-zhangjiakou.aliyuncs.com/dapp-transfer-1.0.0-SNAPSHOT-dapp.jar"
     }
 	
   ]
